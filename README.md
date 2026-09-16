@@ -1,8 +1,9 @@
 <div align="center">
 
 # Hi 👋
+# forward making dream real
 
-### Senior Full Stack Developer
+### Senior Full Stack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+scalable+and+production-ready+applications;Frontend+%E2%80%A2+Backend+%E2%80%A2+Mobile+%E2%80%A2+Cloud+Infrastructure;12%2B+years+shipping+software+that+scales" alt="Building scalable and production-ready applications" />
 
